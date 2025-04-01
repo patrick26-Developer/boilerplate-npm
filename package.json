@@ -12,5 +12,9 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 
-	"author": "Jane Doe"
+	"author": {
+  "name": "MAKOSSO BAYONNE Patrick De Grâce"
+}
+
+
 }
